@@ -1,5 +1,5 @@
 {
-    "dryRun": true,
+    "dryRun": false,
     "branch": "master",
     "ci": false
 }
